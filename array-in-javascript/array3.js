@@ -8,3 +8,5 @@ myArr.shift()
 console.log(myArr);
 myArr.shift()
 console.log(myArr);
+
+;;

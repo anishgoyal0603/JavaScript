@@ -8,6 +8,6 @@ myArr.pop()
 console.log(myArr);
 
 myArr.unshift(9)
-console.log(myArr);
+console.log(myArr); ;;
 
 

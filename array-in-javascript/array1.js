@@ -7,3 +7,4 @@ console.log(myArr[1]);
 console.log(typeof myHeroes);
 
 
+
