@@ -27,9 +27,6 @@ console.log(chai.email())
 console.log(chai.password())   
 
 /*
-You have **two major errors** in this program. One will cause a **crash (TypeError)**, and the other will cause a **Logic Error (Undefined data)**.
-
-Here is the breakdown of exactly what goes wrong.
 
 ### **Error 1: The Syntax Crash (Immediate Stop)**
 
